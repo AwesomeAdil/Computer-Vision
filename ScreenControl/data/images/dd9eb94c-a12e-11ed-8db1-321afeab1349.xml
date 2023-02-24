@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>dd9eb94c-a12e-11ed-8db1-321afeab1349.jpg</filename>
+	<path>/Users/adilbhatti/ComputerVision/ScreenControl/data/images/dd9eb94c-a12e-11ed-8db1-321afeab1349.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1296</width>
+		<height>2234</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>turn right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>326</ymin>
+			<xmax>576</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>582</xmin>
+			<ymin>507</ymin>
+			<xmax>697</xmax>
+			<ymax>645</ymax>
+		</bndbox>
+	</object>
+</annotation>
